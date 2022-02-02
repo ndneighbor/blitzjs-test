@@ -7,7 +7,7 @@ tags:
   - prisma
 ---
 
-# Blitz.js Postgres Example
+# Blitz.js Postgres Examplee
 
 This example is a [Blitz.js](https://blitzjs.com/) app that connects to a
 Railway Postgres database.
